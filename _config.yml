@@ -11,7 +11,8 @@ email: "ryan.hatfield@ryan.bio"
 description: > # this means to ignore newlines until "baseurl:"
   The personal website for Ryan Hatfield
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://ryan.bio" # the base hostname & protocol for your site
+url: "https://ryan.bio" # the base hostname & protocol for your site
+enforce_ssl: "ryan.bio"
 twitter_username: ryanhatfield
 github_username:  beardfromfargo
 
